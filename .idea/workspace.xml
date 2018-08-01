@@ -13,44 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="breast_cancer_cruzada.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_cruzada.py">
+      <file leaf-file-name="iris_cruzada.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClassificacaoMulticlasse/BaseIris/iris_cruzada.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="breast_cancer_tunning.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_tunning.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="22" selection-start-line="15" selection-start-column="4" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="beast_cancer_classificar_registro.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/beast_cancer_classificar_registro.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="breast_cancer_simples.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_simples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" selection-start-line="14" selection-end-line="21" />
+            <state relative-caret-position="501">
+              <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -78,10 +45,11 @@
         <option value="$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_cruzada.py" />
         <option value="$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_tunning.py" />
         <option value="$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/beast_cancer_classificar_registro.py" />
+        <option value="$PROJECT_DIR$/ClassificacaoMulticlasse/BaseIris/iris_cruzada.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -103,13 +71,7 @@
             <path>
               <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassificacaoBinaria" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassificacaoBinaria" type="462c0819:PsiDirectoryNode" />
-              <item name="BreastCancer" type="462c0819:PsiDirectoryNode" />
+              <item name="Regressão" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.iris_simples">
+  <component name="RunManager" selected="Python.iris_cruzada">
     <configuration name="beast_cancer_classificar_registro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,7 +156,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="breast_cancer_tunning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="iris_cruzada" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClassificacaoMulticlasse/BaseIris" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_tunning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassificacaoMulticlasse/BaseIris/iris_cruzada.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,19 +193,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.breast_cancer_tunning" />
       <item itemvalue="Python.beast_cancer_classificar_registro" />
       <item itemvalue="Python.breast_cancer_salvar" />
       <item itemvalue="Python.breast_cancer_carregar" />
       <item itemvalue="Python.iris_simples" />
+      <item itemvalue="Python.iris_cruzada" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.iris_cruzada" />
         <item itemvalue="Python.iris_simples" />
         <item itemvalue="Python.breast_cancer_carregar" />
         <item itemvalue="Python.breast_cancer_salvar" />
         <item itemvalue="Python.beast_cancer_classificar_registro" />
-        <item itemvalue="Python.breast_cancer_tunning" />
       </list>
     </recent_temporary>
   </component>
@@ -262,14 +224,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.9313894" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9313894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -287,6 +248,43 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_cruzada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_tunning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="15" selection-start-column="4" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_simples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" selection-start-line="14" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/beast_cancer_classificar_registro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_cruzada.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -365,10 +363,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_cruzada.py">
+    <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/beast_cancer_classificar_registro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" selection-end-line="21" />
+        <state relative-caret-position="365">
+          <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -377,15 +375,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_tunning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="161">
           <caret line="22" selection-start-line="15" selection-start-column="4" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/beast_cancer_classificar_registro.py">
+    <entry file="file://$PROJECT_DIR$/ClassificacaoBinaria/BreastCancer/breast_cancer_cruzada.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="106" selection-start-line="22" selection-start-column="106" selection-end-line="22" selection-end-column="106" />
+        <state relative-caret-position="314">
+          <caret line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassificacaoMulticlasse/BaseIris/iris_cruzada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
